@@ -17,13 +17,7 @@
   Focused on solving practical problems using clean tech and scalable systems.</p>
 </div>
 
-<a href="https://github.com/Niss54/Niss54">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niss54/Niss54/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Niss54/Niss54/main/light.svg">
-  </picture>
 
-</a>
 
 
 
