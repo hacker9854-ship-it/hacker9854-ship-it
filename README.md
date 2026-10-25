@@ -75,31 +75,20 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niss54&theme=tokyonight&background=00000000&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF&sideNumbers=FFFFFF&hide_border=true" height="150">
 </p>
   <br><br>
- <img src="https://komarev.com/ghpvc/?username=Niss54&label=Profile%20Views&color=00E5FF&style=flat-square&v=1" alt="Profile Views" />
-     <img src="https://img.shields.io/github/followers/Niss54?logo=github&style=for-the-badge&color=7c3aed&labelColor=0d0d2b" alt="Followers" />
+ <img src="https://komarev.com/ghpvc/?username=hacker9854-ship-it&label=Profile%20Views&color=00E5FF&style=flat-square&v=1" alt="Profile Views" />
+     <img src="https://img.shields.io/github/followers/hacker9854-ship-it?logo=github&style=for-the-badge&color=7c3aed&labelColor=0d0d2b" alt="Followers" />
   </a>
   <a href="https://github.com/Niss54?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Niss54?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&labelColor=0d0d2b" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/hacker9854-ship-it?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&labelColor=0d0d2b" alt="Stars" />
   </a>
 </div>
 
----
-<h2 align="center">🧠 LEETCODE STATUS</h2>
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/niss-985488?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/niss-985488/)
-
-<br/>
-
-### 🌿 GeeksforGeeks
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20My%20Profile-0d0d2b?style=for-the-badge&logo=geeksforgeeks&logoColor=a78bfa)](https://www.geeksforgeeks.org/profile/nishanv3l4)
 
 </div>
 
 <div align="center">
   <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niss54&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker9854-ship-it&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -115,7 +104,7 @@
   <h3>📡 CONNECT WITH THE SYSTEM</h3>
   <a href="https://www.linkedin.com/in/niss-visuals/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.Nissh.info"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:Nishantma05@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mr.hacker9854@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <br><br>
   <i>"Turning ideas into elegant, scalable code."</i><br>
   <b>© 2026 Nishant Maurya</b>
