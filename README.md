@@ -15,7 +15,7 @@
   <br><br>
   <p>I build real-world products, not just projects.<br>
   Focused on solving practical problems using clean tech and scalable systems.</p>
-  <a href="https://github.com/Niss54"> MAIN GITHUB ID</a>
+ 
 </div>
 
 
