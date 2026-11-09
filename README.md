@@ -107,5 +107,5 @@
   <a href="mailto:mr.hacker9854@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <br><br>
   <i>"Turning ideas into elegant, scalable code."</i><br>
-  <b>© 2026 Nishant Maurya</b>
+  <b>© 2026 Nissh Maurya</b>
 </div>
